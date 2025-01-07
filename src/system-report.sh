@@ -1,4 +1,5 @@
 #!/bin/bash
+# -*- mode: shell -*-
 
 log_dir="/var/log/system_reports"
 mkdir -p "$log_dir"
